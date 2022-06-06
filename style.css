@@ -38,21 +38,22 @@ img {
   border-radius: 10px;
 }
 
-h1 {
+h1,
+p {
   margin: 20px 10px;
   padding: 0 3px;
+  text-align: center;
+}
+
+h1 {
   font-weight: 700;
   font-size: 20px;
   line-height: 1.4;
   color: hsl(218, 44%, 22%);
-  text-align: center;
 }
 
 p {
-  margin: 20px 10px;
-  padding: 0 3px;
   font-weight: 400;
   font-size: 15px;
   color: hsl(220, 15%, 55%);
-  text-align: center;
 }
