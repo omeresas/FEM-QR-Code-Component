@@ -16,13 +16,13 @@ html {
 
 body {
   width: 70%;
-  margin: 80px auto;
+  margin: 150px auto;
   background-color: rgba(213, 225, 239, 255);
   font-family: "Outfit", sans-serif;
 }
 
 div.card {
-  width: 300px;
+  width: 320px;
   margin: 0 auto;
   padding: 15px;
   background-color: hsl(0, 0%, 100%);
