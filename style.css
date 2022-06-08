@@ -36,7 +36,7 @@ div.card {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: 0 3px 8px -2px gray;
+  box-shadow: 0px 7px 30px -16px gray;
 }
 
 img {
